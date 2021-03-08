@@ -11,6 +11,7 @@ part of the ACRE competition
 ### Input
 * 4 sets of images which differ in perspective / resolution / format etc, each set is divided into 2 subsets (images of Mais corn / images of Haricot beans)
 * A mask for each image of the training dataset
+* [link to dataset](https://drive.google.com/file/d/1u88rl7w7osUeSyQfUIisTA6_nbz1DNGP/view?usp=sharing)
 
 ### Output
 Segmentation masks for test set images
